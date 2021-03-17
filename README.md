@@ -14,6 +14,9 @@
 		<div id='top' align='center'>
 			<br>
 			<br>
+			<div id='name' align='left'>
+				BLUED
+			</div>
 			<nav id='navigation'>
 				<button url=''>
 					$$ Talk
