@@ -1,13 +1,5 @@
 <html>
 	<head>
-		<title>
-			Blue LED's
-		</title>
-		<style>
-			#top{
-				
-			}
-		</style>
 	</head>
 	<body>
 		<div id='top' align='center'>
