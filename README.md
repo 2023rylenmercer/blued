@@ -1,4 +1,3 @@
-# blued
 <!DOCTYPE html>
 <html>
 	<head>
